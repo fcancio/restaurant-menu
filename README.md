@@ -4,7 +4,8 @@ A restaurant menu made for Ourself, by Frances Cancio
 
 Sample:
 
-![Simulator Screen Shot - iPhone 14 Pro Max - 2023-09-19 at 22 17 48](https://github.com/fcancio/restaurant-menu/assets/46465328/30de94fb-3aeb-46dd-8009-5db695a20ae2)
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-09-19 at 22 17 48](https://github.com/fcancio/restaurant-menu/assets/46465328/d1539509-1a42-42b9-8576-cbd6415b1798)
+
 
 
 
@@ -48,7 +49,8 @@ Notes:
 
 Ourself logo:
 
-![ourself_logo](https://github.com/fcancio/restaurant-menu/assets/46465328/3316fd7c-0177-4286-ac10-2b2e3aa7251f)
+![ourself_logo](https://github.com/fcancio/restaurant-menu/assets/46465328/8521aafe-333a-470a-beba-cab3ec895eb2)
+
 
 
 ## Next Steps
