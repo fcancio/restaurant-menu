@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:restaurant_menu/src/menu/menu_category.dart';
-import 'package:restaurant_menu/src/menu/menu_item.dart';
+import 'package:restaurant_menu/src/menu/menu_item_widget.dart';
 
 /// Each page holds the menu items of the corresponding category
 class MenuCategoryPage extends StatelessWidget {

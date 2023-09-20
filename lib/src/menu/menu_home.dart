@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:restaurant_menu/src/menu/menu_category_page.dart';
-import 'package:restaurant_menu/src/menu/menu_item.dart';
 import 'package:restaurant_menu/src/menu/menu_category.dart';
+import 'package:restaurant_menu/src/menu/menu_item.dart';
 
 /// Main landing page, displays AppBar, Navigation tabs, and listed menu items
 class MenuHome extends StatelessWidget {
