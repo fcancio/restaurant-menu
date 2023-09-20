@@ -28,12 +28,15 @@ Sample:
        `MenuHome` `MenuCategoryPage` `MenuItemWidget`
 3. Menu is initially displayed within a scrollable page in order to get all the data and functional menu on the page quickly
 4. Refactored UI Classes to implement a tab navigation bar, with each tab corresponding to a unique menu category
-5. Updated colors and imported assets to match Ourself branding <br />
+     - easy-to-find categories
+     - since one category page is displayed on the screen at a given time, item count is low, scroll is minimal, and allows for legible font size
+     - similar UX to popular food app menus (i.e. DoorDash), intuitive user experience
+6. Updated colors and imported assets to match Ourself branding <br />
      - background: Color.fromARGB(255, 245, 235, 228), <br />
      - primary text: Color.fromRGBO(49, 70, 96, 1), <br />
      - nav label text: Color.fromRGBO(149, 59, 112, 1), <br />
      - nav label indicator: Color.fromRGBO(235, 145, 40, 100) <br />
-6. Reorganized code, added doc strings and comments, removed unnecessary code
+7. Reorganized code, added doc strings and comments, removed unnecessary code
 
 Notes: 
 - Settings icon has been removed until appropriate ThemeData for dark and light themes are complete.
