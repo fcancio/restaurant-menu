@@ -61,8 +61,9 @@ Ourself logo:
 
 
 ## Run App Locally
-1. Clone the repository
-2. `cd` into your desired project folder
+1. Click on the green Code button and copy the repository url
+2. `cd` into your desired project folder on your machine
 3. In your terminal command line, enter and run `git clone <copied repository URL>`
 4. Open the project in your IDE
-5. Run app on mobile simulator (iOS/Android)
+5. Downloaded any needed dependencies
+6. Run app on mobile simulator (iOS/Android)
