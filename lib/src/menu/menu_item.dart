@@ -36,7 +36,10 @@ class MenuItemWidget extends StatelessWidget {
                 child: Text(
                   item.name,
                   style: const TextStyle(
-                      fontSize: 16, fontWeight: FontWeight.w500),
+                    fontSize: 16,
+                    fontWeight: FontWeight.w500,
+                    color: Color.fromRGBO(49, 70, 96, 1),
+                  ),
                 ),
               ),
 
