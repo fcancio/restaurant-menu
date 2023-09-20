@@ -4,8 +4,8 @@ import 'package:restaurant_menu/src/menu/menu_item.dart';
 import 'package:restaurant_menu/src/menu/menu_category.dart';
 
 /// Main landing page, displays AppBar, Navigation tabs, and listed menu items
-class MenuPage extends StatelessWidget {
-  const MenuPage({
+class MenuHome extends StatelessWidget {
+  const MenuHome({
     super.key,
   });
 
@@ -307,7 +307,6 @@ class MenuPage extends StatelessWidget {
                 tabs: menuCategories
                     .map((category) => Tab(text: category.categoryName))
                     .toList()),
-                    
             Expanded(
               child: TabBarView(
                   children: menuCategories
